@@ -1,8 +1,10 @@
 # 🌍 Travel Bucket & Memory Book - React App
+
 Plan your travel dreams, keep a bucket list of destinations, and save memories of the places you’ve visited.  
 Includes dark mode, dashboard stats, search & filter options, and persistence using LocalStorage.
 
 ## Features
+
 - Add new destinations with details (name, country, description)
 - Categorize trips into Wishlist or Visited
 - Search and filter by name or country
@@ -11,9 +13,11 @@ Includes dark mode, dashboard stats, search & filter options, and persistence us
 - Dashboard with travel statistics (wishlist count, visited count, top countries)
 
 ## Live Demo
+
 Visit here: 🌐[Travel Bucket & Memory Book App](https://travel-bucket-app.netlify.app/)
 
 ## App Screenshots
+
 <table>
   <tr>
     <td align="center"><strong> DashBoard Page</strong></td>
@@ -22,6 +26,19 @@ Visit here: 🌐[Travel Bucket & Memory Book App](https://travel-bucket-app.netl
     <td><img src="./assets/preview (2).png" alt="Input Page" width="900" height="600"/></td>
   </tr>
 </table>
+
+## Demo Video
+
+<table>
+  <tr>
+    <td align="center"><strong> See the app in action: </strong></td>
+  </tr>
+  <tr>
+    <td>[![Watch Demo](./assets/preview (2).png)]()</td>
+  </tr>
+</table>  
+*Click on the image to watch the video demonstrating the app’s functionality.*
+
 
 ## Built With
 - React
