@@ -31,7 +31,7 @@ Visit here: 🌐[Travel Bucket & Memory Book App](https://travel-bucket-app.netl
 
 **See the app in action:**  
 
-[![Watch Demo](./assets/preview (2).jpg)](./assets/video.mp4) 
+[Watch Demo](./assets/video.mp4) 
 
 *Click on the image to watch the video demonstrating the app’s functionality.*
 
