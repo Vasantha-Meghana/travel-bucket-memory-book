@@ -16,7 +16,7 @@ Visit here: [Travel Bucket & Memory Book App](https://travel-bucket-app.netlify.
 ## App Screenshots
 Dashboard Page  
 :-------------------------:  
-<img width="1899" height="830" alt="image" src="https://github.com/user-attachments/assets/ff5fcd0c-3e7b-4f9f-96f8-b4884cfc1c06" />
+![Dashboard Screenshot](<img width="1899" height="830" alt="image" src="https://github.com/user-attachments/assets/ff5fcd0c-3e7b-4f9f-96f8-b4884cfc1c06" />)
 
 ## Built With
 - React
