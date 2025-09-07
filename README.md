@@ -29,14 +29,10 @@ Visit here: 🌐[Travel Bucket & Memory Book App](https://travel-bucket-app.netl
 
 ## Demo Video
 
-<table>
-  <tr>
-    <td align="center"><strong> See the app in action: </strong></td>
-  </tr>
-  <tr>
-    <td>[![Watch Demo](./assets/preview (2).png)](./assets/video.mp4)</td>
-  </tr>
-</table>  
+**See the app in action:**  
+
+[![Watch Demo](./assets/preview (2).png)](./assets/video.mp4)  
+
 *Click on the image to watch the video demonstrating the app’s functionality.*
 
 
