@@ -14,9 +14,10 @@ Includes dark mode, dashboard stats, search & filter options, and persistence us
 Visit here: [Travel Bucket & Memory Book App](https://travel-bucket-app.netlify.app/)
 
 ## App Screenshots
-Bucket List Page | Dashboard Page  
-:-------------------------:|:-------------------------:  
-![Home Screenshot](public/screenshots/home.png) | ![Dashboard Screenshot](public/screenshots/dashboard.png)
+Dashboard Page  
+:-------------------------:  
+![Dashboard Screenshot](<img width="1899" height="830" alt="image" src="https://github.com/user-attachments/assets/ff5fcd0c-3e7b-4f9f-96f8-b4884cfc1c06" />
+)
 
 ## Built With
 - React
@@ -26,7 +27,7 @@ Bucket List Page | Dashboard Page
 
 ## Getting Started
 ```bash
-git clone https://github.com/<your-username>/travel-bucket-memory-book.git
+git clone https://github.com/Vasantha-Meghana/travel-bucket-memory-book.git
 cd travel-bucket-memory-book
 npm install
 npm start
