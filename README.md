@@ -1,4 +1,4 @@
-# Travel Bucket & Memory Book - React App
+# 🌍 Travel Bucket & Memory Book - React App
 Plan your travel dreams, keep a bucket list of destinations, and save memories of the places you’ve visited.  
 Includes dark mode, dashboard stats, search & filter options, and persistence using LocalStorage.
 
