@@ -25,7 +25,7 @@ Visit here: 🌐[Travel Bucket & Memory Book App](https://travel-bucket-app.netl
 
 ## Built With
 - React
-- CSS / Tailwind (if used)
+- CSS / Tailwind
 - LocalStorage
 - Netlify
 
