@@ -19,7 +19,7 @@ Visit here: [Travel Bucket & Memory Book App](https://travel-bucket-app.netlify.
     <td align="center"><strong> DashBoard Page</strong></td>
   </tr>
   <tr>
-    <td><img src="./assets/preview (2).png" alt="Input Page" width="500"/></td>
+    <td><img src="./assets/preview (2).png" alt="Input Page" width="700"/></td>
   </tr>
 </table>
 
