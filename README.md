@@ -14,10 +14,14 @@ Includes dark mode, dashboard stats, search & filter options, and persistence us
 Visit here: [Travel Bucket & Memory Book App](https://travel-bucket-app.netlify.app/)
 
 ## App Screenshots
-Dashboard Page  
-:-------------------------:  
-![Dashboard Screenshot](<img width="1899" height="830" alt="image" src="https://github.com/user-attachments/assets/ff5fcd0c-3e7b-4f9f-96f8-b4884cfc1c06" />)
-
+<table>
+  <tr>
+    <td align="center"><strong> DashBoard Page</strong></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/preview(2).png" alt="Input Page" width="500"/></td>
+  </tr>
+</table>
 ## Built With
 - React
 - CSS / Tailwind (if used)
