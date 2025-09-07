@@ -11,7 +11,7 @@ Includes dark mode, dashboard stats, search & filter options, and persistence us
 - Dashboard with travel statistics (wishlist count, visited count, top countries)
 
 ## Live Demo
-Visit here: [Travel Bucket & Memory Book App](https://travel-bucket-app.netlify.app/)
+Visit here: 🌐[Travel Bucket & Memory Book App](https://travel-bucket-app.netlify.app/)
 
 ## App Screenshots
 <table>
